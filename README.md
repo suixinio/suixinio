@@ -6,7 +6,7 @@
 
 ### Github State
 
-![Suixinio's github stats](https://github-readme-stats.vercel.app/api?username=suixinio&show_icons=true&theme=default)
+![Suixinio's github stats](https://github-readme-stats.vercel.app/api?username=suixinio&show_icons=true&theme=default&count_private=true)
 
 
 
