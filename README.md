@@ -1,8 +1,7 @@
 
 ### Hi there，I'm Suixinio 👋
 
-关注所有新奇的事情，运营公众号:「Coding匠人心」
-
+<p> <img src="https://komarev.com/ghpvc/?username=suixinio&&style=flat-square" alt="suixinio" /> </p>
 
 ### Github State
 
